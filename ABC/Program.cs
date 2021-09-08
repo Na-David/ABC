@@ -10,6 +10,8 @@ namespace ABC
 
                 tax_Generator.Initialize_Tax_Generator();
             Console.WriteLine("Modified");
+            Console.WriteLine("Good luck Jatinder!");
+            Console.WriteLine("Final commit");
             }
         }
 
